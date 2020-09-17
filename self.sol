@@ -1,5 +1,5 @@
 pragma solidity ^0.5.17;
-contract HelloWorld {
+contract Self {
     string sName;
     int sRnumber;
     string sGender;
